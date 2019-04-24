@@ -17,5 +17,6 @@ f. http://localhost:8080/admission-frontend/delete/{id} - delete admission recor
 
 Steps to set up the project
 ===========================
+1. Start the promedicus-backend project first.
 1. mvn clean install
-2. java -jar target/promedicus-backend-0.0.1-SNAPSHOT.jar
+2. java -jar target/promedicus-frontend-0.0.1-SNAPSHOT.jar

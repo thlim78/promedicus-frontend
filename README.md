@@ -15,7 +15,7 @@ e. http://localhost:8080/admission-frontend/update/{id} - update an existing adm
 f. http://localhost:8080/admission-frontend/delete/{id} - delete admission record by id.
 
 
-Steps To set up the project
+Steps to set up the project
 ===========================
 1. mvn clean install
 2. java -jar target/promedicus-backend-0.0.1-SNAPSHOT.jar

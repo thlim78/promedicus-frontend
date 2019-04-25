@@ -4,15 +4,15 @@ This promedicus-frontend is developed using the latest spring-boot v2.1.14 and t
 
 a. http://localhost:8082/admission-frontend/ - load index page showing a list of admissions.
 
-b. http://localhost:8080/admission-frontend/create - load create admission form page.
+b. http://localhost:8082/admission-frontend/create - load create admission form page.
 
-c. http://localhost:8080/admission-frontend/add - to add a new admission record.
+c. http://localhost:8082/admission-frontend/add - to add a new admission record.
 
-d. http://localhost:8080/admission-frontend/edit/{id} - load update admission form page.
+d. http://localhost:8082/admission-frontend/edit/{id} - load update admission form page.
 
-e. http://localhost:8080/admission-frontend/update/{id} - update an existing admission record by id.
+e. http://localhost:8082/admission-frontend/update/{id} - update an existing admission record by id.
 
-f. http://localhost:8080/admission-frontend/delete/{id} - delete admission record by id.
+f. http://localhost:8082/admission-frontend/delete/{id} - delete admission record by id.
 
 
 Steps to set up the project
